@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WebStore</string>
+    <string name="welcome_to_our_web_store">Welcome to our web store!</string>
 </resources>
